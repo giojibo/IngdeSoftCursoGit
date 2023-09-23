@@ -1,0 +1,13 @@
+body{
+    width: 1800px;
+    border-radius: 10px 10px 10px 10px ;
+    background-color: aliceblue;
+}
+h1{
+    color: green;
+    font-size: 45px;
+}
+
+P{
+    color: darkblue;
+}
